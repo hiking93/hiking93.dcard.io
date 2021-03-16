@@ -1,0 +1,14 @@
+# Windows thumbnail
+Thumbs.db
+
+# macOS files
+.DS_Store
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# VS Code
+.settings/
+.vscode/
